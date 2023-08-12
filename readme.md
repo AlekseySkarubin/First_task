@@ -16,7 +16,7 @@
   * [Git status](/status.md)
   * [Git init](/init.md)
   * [Git clone](/clone.md)
-  * [Git config](/congig.md)
+  * [Git config](/config.md)
   * [Git fetch](/fetch.md)
   * [Git merge](/merge.md)
   * [Git push](/push.md)
